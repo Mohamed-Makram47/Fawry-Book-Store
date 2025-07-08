@@ -1,13 +1,13 @@
 # Ignore compiled class files
 *.class
 
-
+# Ignore build directories
 /bin/
 /build/
 /out/
 /target/
 
-
+# Ignore IDE config files (Eclipse, IntelliJ, VS Code)
 *.iml
 .idea/
 .project
@@ -15,9 +15,9 @@
 .settings/
 .vscode/
 
-
+# Ignore logs
 *.log
 
-
+# Ignore system files
 .DS_Store
 Thumbs.db
