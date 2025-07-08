@@ -1,0 +1,23 @@
+# Ignore compiled class files
+*.class
+
+
+/bin/
+/build/
+/out/
+/target/
+
+
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+
+
+*.log
+
+
+.DS_Store
+Thumbs.db
