@@ -29,5 +29,8 @@ This project models different book types (physical, electronic, and showcase-onl
   - Invalid ISBNs.
 
 ---
-
+### Test Cases
 ![test cases](https://github.com/user-attachments/assets/341cccd8-c127-49f6-bf43-e03a79fefd03)
+### Output
+
+![output](https://github.com/user-attachments/assets/51327fd2-7477-4f02-b0cf-e91169dc5618)
